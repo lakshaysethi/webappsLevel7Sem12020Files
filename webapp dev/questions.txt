@@ -1,0 +1,1 @@
+how to make it so that arrays in python are not allowing different data types?
